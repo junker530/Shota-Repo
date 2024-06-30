@@ -10,3 +10,4 @@ What is your favorite anime?
 9. yurucamp△
 10. Delicious in Dungeon
 11. Danganronpa
+12. Kimetsu no Yaiba

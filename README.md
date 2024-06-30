@@ -9,4 +9,5 @@ What is your favorite anime?
 8. Yamikin Ushijima-kun
 9. yurucamp△
 10. Delicious in Dungeon
-11. Kimetsu no Yaiba
+11. Danganronpa
+12. Kimetsu no Yaiba

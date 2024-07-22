@@ -11,3 +11,4 @@ What is your favorite anime?
 10. Delicious in Dungeon
 11. Danganronpa
 12. Kimetsu no Yaiba
+13. The Pet Girl of Sakurasou
